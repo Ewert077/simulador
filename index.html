@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Financiamento Imobiliário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Simulador de Financiamento Imobiliário</h1>
+            <p>Simule seu financiamento com base nas condições da Caixa Econômica Federal</p>
+        </header>
+
+        <div class="form-section">
+            <h2>Dados da Simulação</h2>
+            
+            <div class="input-group">
+                <label for="valorImovel">Valor do Imóvel (R$):</label>
+                <input type="number" id="valorImovel" value="220000" min="0" step="1000">
+            </div>
+
+            <div class="input-group">
+                <label for="rendaBruta">Renda Bruta Mensal (R$):</label>
+                <input type="number" id="rendaBruta" value="5000" min="0" step="100">
+            </div>
+
+            <div class="input-group">
+                <label for="prazo">Prazo do Financiamento (meses):</label>
+                <input type="number" id="prazo" value="360" min="12" max="420" step="12">
+            </div>
+
+            <div class="input-group">
+                <label for="idade">Idade (anos):</label>
+                <input type="number" id="idade" value="30" min="18" max="80">
+            </div>
+
+            <div class="input-group">
+                <label for="fgts">FGTS Disponível (R$):</label>
+                <input type="number" id="fgts" value="10000" min="0" step="1000">
+            </div>
+
+            <div class="input-group">
+                <label for="dependentes">Possui Dependentes:</label>
+                <select id="dependentes">
+                    <option value="false">Não</option>
+                    <option value="true">Sim</option>
+                </select>
+            </div>
+
+            <button id="calcular" class="btn-primary">Calcular Simulação</button>
+        </div>
+
+        <div class="results-section">
+            <h2>Resultados da Simulação</h2>
+            
+            <div class="result-grid">
+                <div class="result-item">
+                    <label>Valor Financiado:</label>
+                    <span id="valorFinanciado" class="result-value">R$ 0,00</span>
+                </div>
+
+                <div class="result-item">
+                    <label>Parcela Mensal:</label>
+                    <span id="parcelaMensal" class="result-value">R$ 0,00</span>
+                </div>
+
+                <div class="result-item">
+                    <label>Subsídio:</label>
+                    <span id="subsidio" class="result-value">R$ 0,00</span>
+                </div>
+
+                <div class="result-item">
+                    <label>Entrada Necessária:</label>
+                    <span id="entrada" class="result-value">R$ 0,00</span>
+                </div>
+
+                <div class="result-item">
+                    <label>Taxa de Juros (a.a.):</label>
+                    <span id="taxaJuros" class="result-value">0,00%</span>
+                </div>
+
+                <div class="result-item">
+                    <label>Valor Total a Pagar:</label>
+                    <span id="valorTotal" class="result-value">R$ 0,00</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-section">
+            <h3>Informações Importantes</h3>
+            <ul>
+                <li>Esta simulação é baseada nas condições da Caixa Econômica Federal</li>
+                <li>Os valores são aproximados e podem variar conforme análise de crédito</li>
+                <li>Subsídios aplicáveis conforme faixa de renda e programa habitacional</li>
+                <li>FGTS pode ser usado como entrada ou para amortização</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

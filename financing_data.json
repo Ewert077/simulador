@@ -1,0 +1,290 @@
+[
+    {
+        "renda": 1500.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 86131.84,
+        "subsidio_com_dependente": 55000.00,
+        "subsidio_sem_dependente": 16500.00
+    },
+    {
+        "renda": 1600.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 92128.06,
+        "subsidio_com_dependente": 55000.00,
+        "subsidio_sem_dependente": 16500.00
+    },
+    {
+        "renda": 1700.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 98124.29,
+        "subsidio_com_dependente": 55000.00,
+        "subsidio_sem_dependente": 16500.00
+    },
+    {
+        "renda": 1800.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 104120.52,
+        "subsidio_com_dependente": 52820.00,
+        "subsidio_sem_dependente": 15846.00
+    },
+    {
+        "renda": 1900.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 110116.75,
+        "subsidio_com_dependente": 47180.00,
+        "subsidio_sem_dependente": 14154.00
+    },
+    {
+        "renda": 2000.00,
+        "taxa_juros": 0.0425,
+        "valor_max_financiado": 116112.98,
+        "subsidio_com_dependente": 41917.00,
+        "subsidio_sem_dependente": 12575.00
+    },
+    {
+        "renda": 2000.01,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 112789.31,
+        "subsidio_com_dependente": 42172.00,
+        "subsidio_sem_dependente": 12651.00
+    },
+    {
+        "renda": 2100.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 118613.29,
+        "subsidio_com_dependente": 37263.00,
+        "subsidio_sem_dependente": 11178.00
+    },
+    {
+        "renda": 2200.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 124437.85,
+        "subsidio_com_dependente": 32715.00,
+        "subsidio_sem_dependente": 9814.00
+    },
+    {
+        "renda": 2300.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 130262.41,
+        "subsidio_com_dependente": 28519.00,
+        "subsidio_sem_dependente": 8555.00
+    },
+    {
+        "renda": 2400.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 136086.97,
+        "subsidio_com_dependente": 24666.00,
+        "subsidio_sem_dependente": 7399.00
+    },
+    {
+        "renda": 2500.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 141911.53,
+        "subsidio_com_dependente": 21148.00,
+        "subsidio_sem_dependente": 6344.00
+    },
+    {
+        "renda": 2600.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 147736.16,
+        "subsidio_com_dependente": 17958.00,
+        "subsidio_sem_dependente": 5387.00
+    },
+    {
+        "renda": 2640.00,
+        "taxa_juros": 0.045,
+        "valor_max_financiado": 150065.92,
+        "subsidio_com_dependente": 16772.00,
+        "subsidio_sem_dependente": 5031.00
+    },
+    {
+        "renda": 2640.01,
+        "taxa_juros": 0.05,
+        "valor_max_financiado": 137186.05,
+        "subsidio_com_dependente": 17039.00,
+        "subsidio_sem_dependente": 5111.00
+    },
+    {
+        "renda": 2700.00,
+        "taxa_juros": 0.05,
+        "valor_max_financiado": 140487.06,
+        "subsidio_com_dependente": 15334.00,
+        "subsidio_sem_dependente": 4600.00
+    },
+    {
+        "renda": 2800.00,
+        "taxa_juros": 0.05,
+        "valor_max_financiado": 145989.67,
+        "subsidio_com_dependente": 12741.00,
+        "subsidio_sem_dependente": 3822.00
+    },
+    {
+        "renda": 2900.00,
+        "taxa_juros": 0.05,
+        "valor_max_financiado": 151492.27,
+        "subsidio_com_dependente": 10451.00,
+        "subsidio_sem_dependente": 3135.00
+    },
+    {
+        "renda": 3000.00,
+        "taxa_juros": 0.05,
+        "valor_max_financiado": 156994.88,
+        "subsidio_com_dependente": 8968.00,
+        "subsidio_sem_dependente": 2537.00
+    },
+    {
+        "renda": 3200.01,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 158970.96,
+        "subsidio_com_dependente": 5425.00,
+        "subsidio_sem_dependente": 1627.00
+    },
+    {
+        "renda": 3300.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 164177.29,
+        "subsidio_com_dependente": 4254.00,
+        "subsidio_sem_dependente": 1276.00
+    },
+    {
+        "renda": 3400.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 169384.15,
+        "subsidio_com_dependente": 3351.00,
+        "subsidio_sem_dependente": 1005.00
+    },
+    {
+        "renda": 3500.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 174591.00,
+        "subsidio_com_dependente": 2709.00,
+        "subsidio_sem_dependente": 812.00
+    },
+    {
+        "renda": 3600.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 179797.85,
+        "subsidio_com_dependente": 2320.00,
+        "subsidio_sem_dependente": 696.00
+    },
+    {
+        "renda": 3700.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 185004.71,
+        "subsidio_com_dependente": 2177.00,
+        "subsidio_sem_dependente": 653.00
+    },
+    {
+        "renda": 3800.00,
+        "taxa_juros": 0.055,
+        "valor_max_financiado": 190211.56,
+        "subsidio_com_dependente": 2154.00,
+        "subsidio_sem_dependente": 646.00
+    },
+    {
+        "renda": 3800.01,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 171121.24,
+        "subsidio_com_dependente": 2241.00,
+        "subsidio_sem_dependente": 672.00
+    },
+    {
+        "renda": 3900.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 175805.03,
+        "subsidio_com_dependente": 2221.00,
+        "subsidio_sem_dependente": 666.00
+    },
+    {
+        "renda": 4000.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 180489.29,
+        "subsidio_com_dependente": 2201.00,
+        "subsidio_sem_dependente": 660.00
+    },
+    {
+        "renda": 4100.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 185173.56,
+        "subsidio_com_dependente": 2181.00,
+        "subsidio_sem_dependente": 654.00
+    },
+    {
+        "renda": 4200.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 189857.82,
+        "subsidio_com_dependente": 2161.00,
+        "subsidio_sem_dependente": 648.00
+    },
+    {
+        "renda": 4300.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 194542.08,
+        "subsidio_com_dependente": 2140.00,
+        "subsidio_sem_dependente": 642.00
+    },
+    {
+        "renda": 4400.00,
+        "taxa_juros": 0.065,
+        "valor_max_financiado": 199226.34,
+        "subsidio_com_dependente": 2120.00,
+        "subsidio_sem_dependente": 636.00
+    },
+    {
+        "renda": 4400.01,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 176698.08,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 4500.00,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 180872.57,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 5000.00,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 207217.41,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 6000.00,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 248660.89,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 7000.00,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 290104.37,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 8000.00,
+        "taxa_juros": 0.0766,
+        "valor_max_financiado": 211200.00,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 10000.00,
+        "taxa_juros": 0.0955,
+        "valor_max_financiado": 285780.70,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    },
+    {
+        "renda": 12000.00,
+        "taxa_juros": 0.0955,
+        "valor_max_financiado": 320000.00,
+        "subsidio_com_dependente": 0.00,
+        "subsidio_sem_dependente": 0.00
+    }
+]
+
